@@ -1,0 +1,10 @@
+</head>
+<body>
+    < id="game">
+        <h1>Активити Онлайн</h1>
+        <div id="word"></div>
+        <div id="timer">Время: 60</div>
+        <button id="startBtn">Начать игру</button>
+        <button id="nextBtn" style="display:none;">Следующее слово</button>
+        <button id="correctBtn" style="display:none;">Угадано</button>
+        <div id="score">Очки: 0</div>
